@@ -1,2 +1,2 @@
-# Print hello Coursera
+# Print Hello Coursera
 print('Hello Coursera')
