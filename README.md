@@ -1,1 +1,1 @@
-# Coursera
+# Coursera training Git and GitHub
