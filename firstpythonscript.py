@@ -1,2 +1,2 @@
 # Print Hello Coursera
-print('Hello Coursera')
+print('Hello Coursera, refactoring code.')
